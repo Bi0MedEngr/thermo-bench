@@ -1,0 +1,15 @@
+{
+  "name": "Thermo Bench",
+  "short_name": "Thermo Bench",
+  "description": "Gas power cycles, psychrometrics, heat exchangers and heater warm-up, with the math shown",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9eeec",
+  "theme_color": "#c2410c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
